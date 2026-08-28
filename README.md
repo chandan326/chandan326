@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="./assets/green-code-banner.png" width="100%" alt="Green code banner" />
+<img src="https://raw.githubusercontent.com/chandan326/chandan326/main/assets/green-code-banner.png" width="100%" alt="Green code banner" />
 
-<br/>
-
-<img src="./assets/chandan-profile.jpg" width="165" alt="Chandan Kumar Rai" />
 
 # Chandan Kumar Rai
 
