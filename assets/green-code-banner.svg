@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#020604"/><stop offset=".5" stop-color="#07140c"/><stop offset="1" stop-color="#020604"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+<g fill="#18ff67" opacity=".25" font-family="monospace" font-size="15">
+<text x="28" y="32">01001010  python.asyncio  10110100  vector.embedding  01101001</text>
+<text x="90" y="58">agent.run(task)  01010111  llm.generate(context)  11001010</text>
+<text x="18" y="86">SELECT insights FROM data WHERE impact = 'real-world';</text>
+<text x="145" y="116">def build_future(idea): return intelligence + engineering</text>
+<text x="35" y="150">10100101  Django  FastAPI  PostgreSQL  RAG  AI Agents  01011010</text>
+<text x="120" y="182">model.learn()  system.scale()  product.ship()  11010101</text>
+<text x="25" y="220">while curious: explore(); build(); improve();</text>
+<text x="720" y="245">00110101  CHANDAN.DEV  11001011</text>
+</g>
+<g filter="url(#glow)" text-anchor="middle" font-family="monospace">
+<text x="600" y="118" fill="#8dffb0" font-size="24" letter-spacing="5">BUILDING INTELLIGENT SYSTEMS</text>
+<text x="600" y="158" fill="#22ff66" font-size="34" font-weight="700">CHANDAN KUMAR RAI</text>
+</g>
+<rect x="18" y="18" width="1164" height="224" rx="14" fill="none" stroke="#19ff66" stroke-opacity=".3"/>
+</svg>
