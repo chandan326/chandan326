@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/chandan-profile.jpg" width="185" alt="Chandan Kumar Rai" />
+<img src="./assets/green-code-banner.png" width="100%" alt="Animated-style green code banner" />
 
 # Hi, I'm Chandan Kumar Rai 👋
 
@@ -18,7 +18,7 @@ Building dependable backend systems, intelligent AI workflows and useful data-dr
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 ```python
 chandan = {
@@ -36,7 +36,7 @@ chandan = {
 - 🤝 Open to collaborating on meaningful backend, AI and open-source projects.
 - 💬 Ask me about Python, Django, FastAPI and project development.
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -68,7 +68,7 @@ chandan = {
 
 </div>
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 | Project | What it does | Live Demo | Source |
 |---|---|---|---|
@@ -79,7 +79,7 @@ chandan = {
 | **Aethra** | Creative image marketplace and community experience | [Open App](https://aethra-gamma.vercel.app) | [Repository](https://github.com/chandan326/aethra) |
 | **GreenHealth** | Interactive plant-health and disease-analysis experience | [Open App](https://greenhealth-indol.vercel.app) | [Repository](https://github.com/chandan326/mini-project) |
 
-## GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
@@ -92,7 +92,7 @@ chandan = {
 
 </div>
 
-## Current Learning Roadmap
+<h2 align="center">Current Learning Roadmap</h2>
 
 ```text
 Advanced Python → FastAPI & Django → SQL/PostgreSQL → Docker
@@ -102,7 +102,7 @@ LLMs → Embeddings → Vector Databases → RAG → AI Agents
 Fine-tuning (LoRA/QLoRA) → MLOps → Production AI Systems
 ```
 
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
