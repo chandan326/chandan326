@@ -83,12 +83,12 @@ chandan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandan326&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Chandan's GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan326&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Chandan's most used languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan326&theme=tokyonight" alt="Chandan's GitHub contribution summary" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan326&theme=tokyonight" alt="Chandan's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandan326&theme=tokyonight" alt="Chandan's repositories by language" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=chandan326&theme=tokyonight&hide_border=true" alt="Chandan's contribution streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chandan326&theme=tokyo-night&hide_border=true&area=true" alt="Chandan's contribution graph" />
 
 </div>
 
