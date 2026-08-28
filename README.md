@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chandan326/chandan326/main/assets/green-code-banner.png" width="100%" alt="Green code banner" />
+<img src="https://raw.githubusercontent.com/chandan326/chandan326/main/assets/green-code-banner.svg" width="100%" alt="Green code banner" />
 
 <br/>
 
@@ -11,8 +11,6 @@
 
 ### Backend Engineer • AI/ML Developer • Data Engineering Enthusiast
 
-**B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)**  
-**Galgotias College of Engineering and Technology**
 
 Building dependable backend systems, intelligent AI workflows, and useful data-driven products.
 
