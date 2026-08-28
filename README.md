@@ -1,16 +1,23 @@
 <div align="center">
 
-<img src="./assets/green-code-banner.png" width="100%" alt="Animated-style green code banner" />
+<img src="./assets/green-code-banner.png" width="100%" alt="Green code banner" />
 
-# Hi, I'm Chandan Kumar Rai 👋
+<br/>
 
-### Backend • AI • Data Engineering
+<img src="./assets/chandan-profile.jpg" width="165" alt="Chandan Kumar Rai" />
 
-Building dependable backend systems, intelligent AI workflows and useful data-driven products.
+# Chandan Kumar Rai
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+FastAPI+Developer;AI+%26+Data+Engineering+Enthusiast;Exploring+LLMs%2C+RAG%2C+Agents+%26+MLOps;Always+learning.+Always+building.)](https://git.io/typing-svg)
+### Backend Engineer • AI/ML Developer • Data Engineering Enthusiast
 
-[![Profile Views](https://komarev.com/ghpvc/?username=chandan326&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/chandan326)
+**B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)**  
+**Galgotias College of Engineering and Technology**
+
+Building dependable backend systems, intelligent AI workflows, and useful data-driven products.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=39FF14&center=true&vCenter=true&width=760&lines=Python+%7C+Django+%7C+FastAPI+Developer;Building+AI-Powered+Backend+Systems;Exploring+LLMs%2C+RAG%2C+Agents+%26+MLOps;Turning+Ideas+Into+Production-Ready+Products)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=chandan326&label=Profile+Views&color=00a86b&style=for-the-badge)](https://github.com/chandan326)
 [![GitHub followers](https://img.shields.io/github/followers/chandan326?label=Followers&style=for-the-badge&logo=github)](https://github.com/chandan326?tab=followers)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandan.rai771714@gmail.com)
 
@@ -22,19 +29,20 @@ Building dependable backend systems, intelligent AI workflows and useful data-dr
 
 ```python
 chandan = {
-    "education": "B.Tech CSE (AI & ML)",
-    "focus": ["Backend Engineering", "AI Systems", "Data Engineering"],
-    "building_with": ["Python", "Django", "FastAPI", "PostgreSQL"],
-    "learning": ["LLMs", "RAG", "AI Agents", "Docker", "MLOps"],
-    "goal": "Turn real-world problems into reliable and intelligent products"
+    "role": "Backend, AI/ML & Data Engineering Enthusiast",
+    "education": "B.Tech CSE (Artificial Intelligence & Machine Learning)",
+    "college": "Galgotias College of Engineering and Technology",
+    "core_stack": ["Python", "Django", "FastAPI", "PostgreSQL"],
+    "exploring": ["LLMs", "RAG", "AI Agents", "Docker", "MLOps"],
+    "mission": "Build reliable intelligent systems that solve real-world problems"
 }
 ```
 
-- 🔭 Currently building production-style AI and full-stack projects.
-- 🧠 Exploring agentic AI, asynchronous workflows, embeddings and vector databases.
-- 🗄️ Interested in scalable APIs, PostgreSQL, data pipelines and cloud deployment.
-- 🤝 Open to collaborating on meaningful backend, AI and open-source projects.
-- 💬 Ask me about Python, Django, FastAPI and project development.
+- 🔭 Building production-style backend, AI, and full-stack projects.
+- 🧠 Exploring agentic AI, asynchronous workflows, embeddings, and vector databases.
+- 🗄️ Interested in scalable APIs, PostgreSQL, data pipelines, and cloud deployment.
+- 🤝 Open to meaningful backend, AI, and open-source collaborations.
+- 💬 Ask me about Python, Django, FastAPI, AI workflows, and project development.
 
 <h2 align="center">Tech Stack</h2>
 
@@ -48,7 +56,7 @@ chandan = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & APIs
+### Backend & Databases
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -83,12 +91,12 @@ chandan = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan326&theme=tokyonight" alt="Chandan's GitHub contribution summary" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandan326&theme=github_dark" alt="Chandan's GitHub contribution summary" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan326&theme=tokyonight" alt="Chandan's GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandan326&theme=tokyonight" alt="Chandan's repositories by language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandan326&theme=github_dark" alt="Chandan's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandan326&theme=github_dark" alt="Chandan's repositories by language" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=chandan326&theme=tokyonight&hide_border=true" alt="Chandan's contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=chandan326&theme=github-dark-blue&hide_border=true" alt="Chandan's contribution streak" />
 
 </div>
 
